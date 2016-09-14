@@ -1,3 +1,3 @@
 # angularUI
 
-This is the master branch created. Currently it is empty
+This is a branch created out of master.This has all admin related UI changes
